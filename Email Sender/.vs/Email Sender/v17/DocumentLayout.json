@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\zstsrv\\zarzycki.piotr$$\\desktop\\ssss\\nowyReminderSigmy\\Email Sender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CE7E00-0564-4199-9000-57B4565CD9C0}|Email Sender\\Email Sender.csproj|\\\\zstsrv\\zarzycki.piotr$$\\desktop\\ssss\\nowyremindersigmy\\email sender\\email sender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\zstsrv\\zarzycki.piotr$$\\desktop\\ssss\\nowyReminderSigmy\\Email Sender\\Email Sender\\Program.cs",
+              "RelativeDocumentMoniker": "Email Sender\\Program.cs",
+              "ToolTip": "\\\\zstsrv\\zarzycki.piotr$$\\desktop\\ssss\\nowyReminderSigmy\\Email Sender\\Email Sender\\Program.cs",
+              "RelativeToolTip": "Email Sender\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:50:33.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
