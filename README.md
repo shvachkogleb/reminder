@@ -1,1 +1,2 @@
 # nowyReminderSigmy
+Fajny projekt
